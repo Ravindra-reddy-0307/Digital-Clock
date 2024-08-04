@@ -1,5 +1,6 @@
 # Digital-Clock
 Author: Maddasani Ravindra Reddy
+
 This project is a Verilog implementation of a digital clock with the following 
 
 Functionalities:
